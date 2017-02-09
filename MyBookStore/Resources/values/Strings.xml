@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">MyBookStore</string>
+
+  <string name="ButtonViewBooks">View Books</string>
+  <string name="ButtonViewCart">View Cart</string>
+  <string name="ButtonAboutApp">About MyBookStore App</string>
+
+  <string name="AboutAppActivityHeading">About MyBookStore App</string>
+  <string name="AboutAppActivityContent">MyBookStore App lets you browse and view all of the books in our store. It allows you to add the books in shopping cart and then buy it. This is a starting point to learn Android app development with Xamarin.</string>
+</resources>
